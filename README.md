@@ -1,5 +1,5 @@
 # WeatherApp
-<p>Project using Vuejs3. This project is using a Api (OpenWeatherapi)</p>
+<p>Project using Vuejs3. This project is using a Api (openweathermap)</p>
 <p>This is my first projet with a Api</p>
 
 You can put a city in the input field and web site give you the weather of this city. 
