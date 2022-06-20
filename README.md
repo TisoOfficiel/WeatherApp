@@ -1,19 +1,15 @@
-# weather
+# WeatherApp
+<p>Project using Vuejs3. This project is using a Api (OpenWeatherapi)</p>
+<p>This is my first projet with a Api</p>
 
-## Project setup
-```
-npm install
-```
+You can put a city in the input field and web site give you the weather of this city. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Technologies Used
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Front
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![VUESJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Technologies Vues Used
+<p> - Vue Cli </p>
