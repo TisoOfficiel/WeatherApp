@@ -63,12 +63,12 @@ export default {
 
     methods: {
         getWeather: async function () {
-            console.log(this.citySearch)
+            
             const url = `http://api.openweathermap.org/data/2.5/weather?q=${this.citySearch}&appid=${this.CLEAPI}&exclude=minutely&units=metric&lang=fr`
 
             const response = await fetch(url);
             const data = await response.json();
-            console.log(data)
+            
             this.citySearch = "";
             this.cityname = data.name;
             this.country = data.sys.country;
